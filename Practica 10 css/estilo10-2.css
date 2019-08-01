@@ -1,0 +1,26 @@
+
+table {
+
+  width: 400px;
+  padding: 10px;
+  text-align: center;
+  }
+
+td {
+  background-color: #CCCCFF;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #000000;
+  font-size: 14px;
+  height: 40px;
+  }
+  .cab {
+  color: #FFFFFF;
+  font-style: !important;
+  background-color: #33FF33;
+  border-radius: 10px;
+  }
+
+  .lol {
+    background-color: #FFFFFF;
+  }

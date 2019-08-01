@@ -1,0 +1,12 @@
+
+
+img {
+  border: 2px solid  ;
+  border-radius: 50% ;
+  transition-duration: 2s;
+  transition-property: "border-radius";
+}
+img:hover{
+  border-radius: 0%   ;
+
+}

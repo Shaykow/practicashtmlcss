@@ -1,0 +1,22 @@
+
+table {
+  background-color: #333333;
+  border-radius:  5px;
+  width: 400px;
+  padding: 10px;
+  text-align: center;
+  }
+
+td {
+  border-bottom-style: ridge;
+  border-bottom-width: 1px;
+  border-bottom-color: #003399;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #FFFFFF;
+  font-size: 14px;
+  height: 40px;
+  }
+  .cab {
+  color: #FFFF00;
+  }
